@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Blessing
 
 
-- 🔭 I’m currently working on an Website for a digital agency
+- 🔭 I’m currently working on a Website for a digital agency
 - 🌱 I’m currently learning Firebase
 - 👯 I’m looking to collaborate on anything but should use cool technologies or relate to the stacks I do
 - 💬 Ask me about on how to cook except on dancing😂
