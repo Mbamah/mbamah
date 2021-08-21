@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working on a Website for a digital agency
-- 🌱 I’m currently learning Firebase
-- 👯 I’m looking to collaborate on anything but should use cool technologies or relate to the stacks I do
-- 💬 Ask me about on how to cook except on dancing😂
-- 📫 How to reach me: mbamah1999@gmail.com, https://www.linkedin.com/in/bmbabilah/, calls or text +233 202266556
-- ⚡ Fun fact: I can dance🤣
+- 🌱 I’m currently learning Firebase, Auth0 and Mongodb
+<!-- - 👯 I’m looking to collaborate on anything but should use cool technologies or relate to the stacks I do -->
+<!-- - 💬 Ask me about on how to cook except on dancing😂 -->
+<!-- - 📫 How to reach me: mbamah1999@gmail.com, https://www.linkedin.com/in/bmbabilah/, calls or text +233 202266556 -->
+<!-- - ⚡ Fun fact: I can dance🤣 -->
 <!-- - 🤔 I’m looking for help with ... -->
 
 <!-- 
