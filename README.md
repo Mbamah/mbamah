@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Blessing
 
 
-- 🔭 I’m currently doing 100daysofcode challenge.
-- 🌱 I’m currently learning UX Design.
+
+- 🌱 I’m UX/UI Designer still learning Design.
+- 🔭 I’m currently learning Framer and Spatial Design.
 <!-- - 👯 I’m looking to collaborate on anything but should use cool technologies or relate to the stacks I do -->
 <!-- - 💬 Ask me about on how to cook except on dancing😂 -->
 <!-- - 📫 How to reach me: mbamah1999@gmail.com, https://www.linkedin.com/in/bmbabilah/, calls or text +233 202266556 -->
