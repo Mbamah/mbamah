@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m UX/UI Designer still learning Design.
+- 🌱 I’m Product Designer and a frontend developer.
 
 <!-- - 👯 I’m looking to collaborate on anything but should use cool technologies or relate to the stacks I do -->
 <!-- - 💬 Ask me about on how to cook except on dancing😂 -->
